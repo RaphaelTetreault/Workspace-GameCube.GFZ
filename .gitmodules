@@ -1,6 +1,6 @@
-[submodule "GameCube.GX"]
-	path = GameCube.GX
-	url = ../GameCube.GX.git
+[submodule "GameCube.Core"]
+	path = GameCube.Core
+	url = ../GameCube.Core.git
 [submodule "GameCube.GFZ"]
 	path = GameCube.GFZ
 	url = ../GameCube.GFZ.git
