@@ -13,3 +13,6 @@
 [submodule "Unity.Mathematics"]
 	path = Unity.Mathematics
 	url = https://github.com/Unity-Technologies/Unity.Mathematics.git
+[submodule "GameCube.AmusementVision"]
+	path = GameCube.AmusementVision
+	url = ../GameCube.AmusementVision.git
