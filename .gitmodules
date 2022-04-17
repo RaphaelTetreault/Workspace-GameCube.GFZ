@@ -7,9 +7,6 @@
 [submodule "Manifold.Core"]
 	path = Manifold.Core
 	url = ../Manifold.Core.git
-[submodule "GxUtils"]
-	path = GxUtils
-	url = ../GxUtils.git
 [submodule "Unity.Mathematics"]
 	path = Unity.Mathematics
 	url = https://github.com/Unity-Technologies/Unity.Mathematics.git
